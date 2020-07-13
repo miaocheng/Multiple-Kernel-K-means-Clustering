@@ -1,4 +1,4 @@
-# MKKM
+# Multiple Kernel K-means Clustering
 The python impelmentation of MKKM algorithm for generalized clustering.
 
 The source code is released for academic use only. For non-academic purpose, please connect author and obtain permissions.
